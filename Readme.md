@@ -25,7 +25,5 @@ code .
 ## Contributing
 *Lorem Ipsum has been the industry's standard dummy ey of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was 
 
-----------------------------------------------------------------------
-
 ## License
 [MIT](https://github.com/murataltinisik/homework)
